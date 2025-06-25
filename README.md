@@ -1,4 +1,7 @@
-# 💰 Tip Calculator
+
+## ✅ Features
+
+✨ Clean and modern glassmorphi# 💰 Tip Calculator
 
 A modern and stylish **Tip Calculator** built with **HTML, CSS, and JavaScript**, designed to make calculating tips quick and intuitive. Featuring a sleek UI, real-time calculations, and a fully responsive layout — this is a perfect frontend mini-project for practicing user interaction and design polish.
 
@@ -23,10 +26,7 @@ A modern and stylish **Tip Calculator** built with **HTML, CSS, and JavaScript**
 * **Difficulty Level:** Beginner to Intermediate
 
 ---
-
-## ✅ Features
-
-✨ Clean and modern glassmorphism-style design
+sm-style design
 📱 Fully responsive for all devices
 🔢 Live calculation of tip and total amount
 💡 Emoji-enhanced tip and total summary
